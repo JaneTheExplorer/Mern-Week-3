@@ -41,7 +41,7 @@ npm run dev
 
 
 ## Live Deployment
-Explore the live version on Vercel: [codeverge-health-pyxa.vercel.app](https://codeverge-health-pyxa.vercel.app)
+Explore the live version on Vercel: [mern-week-3-czzt.vercel.app](https://mern-week-3-czzt.vercel.app)
 
 
 ## Developer
